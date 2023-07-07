@@ -13,3 +13,5 @@
 //현재 vscode  확작팩 paste imaee를 설치 하였다. copy한 이미지를 ctrl+alt+v 로 복사해서 사용할 수 있다.
 2023-07-07-18-27-14.png
 
+https://study-ce.tistory.com/68
+페이지를 참고하여 github에 올린다.
